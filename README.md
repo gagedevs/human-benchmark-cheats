@@ -16,7 +16,7 @@ pip install pywin32
 # Step 3
 Stay in command prompt, and type cd C:\Your Directory Of Script Here
 Then go into file explorer and run the file. If this doesn't work, try typing this into command prompt:
-python aimtrainer.py
+python reactiontime.py
 
 # Step 4
 Do the reaction test.
